@@ -8,5 +8,7 @@ public class FirstClass {
         System.out.println("This is third commit from local master");
         System.out.println("Remote master update");
 
+        // Hello Class!
+
     }
 }
